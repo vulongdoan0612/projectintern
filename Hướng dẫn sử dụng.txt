@@ -1,0 +1,5 @@
+email: longvuxautrai12@gmail.com
+email STECH:contact@stechvn.org & info@stechvn.org
+
+Hướng dẫn sử dụng:
+-Mở file vnexpress Chrome HTML Document để xem giao diện bài test.
